@@ -1,2 +1,2 @@
 # hello-world
-Ejercicio derepositorios para Entornos de Desarrollo
+Ejercicio de repositorios para Entornos de Desarrollo
